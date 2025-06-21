@@ -1,7 +1,7 @@
 public class Builtinfun {
     
     public static void main(String[] args) {
-        String name = "Saaili";
+        String name = "Arjun";
 
         // Built-in string functions
         System.out.println("Name: " + name);

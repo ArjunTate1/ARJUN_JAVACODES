@@ -22,8 +22,9 @@ class Arjun extends Person implements Dancer {
     }
 
     public void sing() {
-        System.out.println("Arjun can sing.");
-    }
+    System.out.println("Arjun can sing.");
+}
+
 }
 
 // Main class
